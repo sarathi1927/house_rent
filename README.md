@@ -6,6 +6,15 @@
 
 ---
 
+## 🔗 Project Deliverables & Links
+
+| Deliverable | Resource Link | Details |
+|---|---|---|
+| 📄 **Project Documentation** | [Google Drive Document Folder](https://drive.google.com/drive/folders/16U9R_6tr8m4g5V83rHw4mP5Q354kS5xl?usp=drive_link) | Project report, architecture & system documentation |
+| 🎥 **Project Demo Video** | [Google Drive Video Folder](https://drive.google.com/drive/folders/1OJ9HhmjlHmJNF3zqCxKjB3lJgKmYYCOd?usp=drive_link) | Complete walkthrough and demonstration video |
+
+---
+
 ## 🌟 Key Features
 
 ### 1. User Roles & Security
